@@ -65,6 +65,5 @@ python myface_recog.py
 - `Mface_leaning.py`: Helper script to generate face encodings from a video stream.
 - `Mface_convert.py`: Helper utility for face conversions.
 - `.env`: Environment variables file (not included in version control).
-- `.env.example`: Template for environment variables.
 # 2025-Project-Face-Recog
 # 2025-Face-Recog-project
